@@ -1,3 +1,4 @@
+# 已打包的文件再Releases中目前只有7.17.0版本，其他版本有空了会打包
 # Dynamic Synonym for ElasticSearch
 
 The dynamic synonym plugin adds a synonym token filter that reloads the synonym file (local file or remote file) at given intervals (default 60s).
